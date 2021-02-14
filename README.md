@@ -5,9 +5,9 @@
 
 This project is to create three queries from exixting databases of employees for PH Company to do the following:
 
-- The number of Retiring Employees by title. The list can be found in Data folder in  [unique_titles.csv](data/unique_titles.csv)
-- The count of each title is in a data file called [retiring_title_count.csv](data/retiring_title_count.csv)
-- A list of employees eligible for mentorship saved as [mentorship_eligibility.csv](data/mentorship_eligibility.csv)
+- The number of Retiring Employees by title. The list can be found in Data folder in  [unique_titles.csv](Data/unique_titles.csv)
+- The count of each title is in a data file called [retiring_title_count.csv](Data/retiring_title_count.csv)
+- A list of employees eligible for mentorship saved as [mentorship_eligibility.csv](Data/mentorship_eligibility.csv)
 
 ## Results:
 
