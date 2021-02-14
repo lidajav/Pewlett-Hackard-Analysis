@@ -17,9 +17,7 @@ This project is to create three queries from exixting databases of employees for
  - According to the mentorship_eligibility table there are 1549 employees are eligible to receive mentoring. 
    
 
-
 ## Summary :
-
 ### Recomendations:
 
 - Based on our queries and analysis PH company has to fill 90,398 employees to replace the soon-to-become retiries. 
