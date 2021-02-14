@@ -16,7 +16,8 @@ This project is to create three queries from exixting databases of employees for
 - There are only two managers to retire.
  - According to the mentorship_eligibility table there are 1549 employees are eligible to receive mentoring. 
    
-  
+
+
 ## Summary :
 
 ### Recomendations:
